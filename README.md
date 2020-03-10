@@ -19,8 +19,7 @@
 
 - Run the `App.java` file
 
----
-@title: ServiceNow with DB2   
+---  
 @author: Aashish Chaubey   
 @email: chaubey.aashish@gmail.com  
 @date: 02/03/2020  
