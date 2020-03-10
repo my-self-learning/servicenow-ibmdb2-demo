@@ -17,4 +17,4 @@
 
 - Check if the ServiceNow instance is not sleeping, else wake it up from the dashboard
 
-- Run the file: mvn run 
+- Run the `App.java` file
