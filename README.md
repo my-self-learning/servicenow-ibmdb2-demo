@@ -20,7 +20,6 @@
 - Run the `App.java` file
 
 ---  
-@author: Aashish Chaubey   
-@email: chaubey.aashish@gmail.com  
+@author: Aashish Chaubey  
 @date: 02/03/2020  
 ---
